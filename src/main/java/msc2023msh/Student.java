@@ -1,4 +1,4 @@
-package msc2023msh;
+package main.java.msc2023msh;
 import java.sql.Date;
 
 public class Student {

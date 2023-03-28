@@ -1,5 +1,5 @@
-package msc2023msh;
-import  msc2023msh.Student;
+package main.java.msc2023msh;
+import  main.java.msc2023msh.Student;
 import java.util.ArrayList;
 
 public interface StudentDao {

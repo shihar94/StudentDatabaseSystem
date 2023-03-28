@@ -1,5 +1,5 @@
-package msc2023msh;
-import msc2023msh.StudentDao;
+package main.java.msc2023msh;
+import main.java.msc2023msh.StudentDao;
 import java.util.ArrayList;
 import java.sql.*;
 public class StudentDaoImpl implements StudentDao {
